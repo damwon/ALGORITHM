@@ -1,5 +1,7 @@
 # Baekjoon Online Judge(BOJ) - 백준
 
+Solving Alogorithm of BOJ 
+
 ### Language
 
 Node.js
