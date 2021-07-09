@@ -1,5 +1,7 @@
 # Baekjoon Online Judge(BOJ) - 백준
 
+Solving Alogorithm of BOJ
+
 ### Language
 
 Node.js
@@ -14,7 +16,7 @@ Node.js
 <details markdown="1">
 <summary>Try Solving Step by Step - 단계별로 풀어보기</summary>
 
-- [ ] 1. 입출력과 사칙연산
+- [x] 1. 입출력과 사칙연산
 - [ ] 2. if문
 - [ ] 3. for문
 - [ ] 4. while문
