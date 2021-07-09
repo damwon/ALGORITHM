@@ -4,10 +4,12 @@
 
 Node.js
 
-Link: [Beakjoon](https://www.acmicpc.net , "백준 메인 페이지")  
-Link: [Beakjoon - Step by Step](https://www.acmicpc.net/step , "백준 단계별로 풀어보기")
+### Links
 
-**List**
+[Beakjoon](https://www.acmicpc.net "백준 메인 페이지")  
+[Beakjoon - Step by Step](https://www.acmicpc.net/step "백준 단계별로 풀어보기")
+
+### List
 
 <details markdown="1">
 <summary>Try Solving Step by Step - 단계별로 풀어보기</summary>
