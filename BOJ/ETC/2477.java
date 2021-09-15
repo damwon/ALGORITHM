@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 // 아이디어: 변들의 곱을 차례대로 배열에 담은 후
 //   		 가장 큰 넓이와 인덱스가 3번째 차이나는 넓이가 빼줘야 하는 넓이다. 
-public class KMelonField_2477 {
+public class Main {
 	// 배열을 사용한 풀이법
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

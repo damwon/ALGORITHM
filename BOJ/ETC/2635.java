@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class main {
+public class Main {
 	static int N, max;
 	static ArrayList<Integer> result;
 	
